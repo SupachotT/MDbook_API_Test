@@ -1,1 +1,7 @@
-# MDbook_API_Test 1
+# MBbook
+
+## How to run serve
+
+```sh
+mdbook serve --open
+```
