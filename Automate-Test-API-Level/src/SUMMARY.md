@@ -5,3 +5,4 @@
     - [Postman Level 2](relative/path/to/APIs_level_2.md)
     - [Postman Level 3](relative/path/to/APIs_level_3.md)
 
+- [Global Variable in Postman](./chapter_2.md)
